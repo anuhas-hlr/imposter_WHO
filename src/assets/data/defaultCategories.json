@@ -1,0 +1,206 @@
+[
+  {
+    "id": "food",
+    "name": "Food & Snacks",
+    "icon": "🍕",
+    "description": "Tasty foods, snacks, and treats that everyone knows",
+    "words": [
+      "Pizza", "Burger", "Chocolate", "Ice Cream", "Popcorn",
+      "Apple", "Banana", "Cookie", "Sandwich", "French Fries",
+      "Donut", "Cake", "Strawberry", "Watermelon", "Bread",
+      "Cheese", "Egg", "Chicken", "Pasta", "Potato",
+      "Rice", "Soup", "Mango", "Grapes", "Milk",
+      "Coffee", "Tea", "Lemon", "Honey", "Juice",
+      "Pancake", "Hot Dog", "Noodles", "Butter", "Candy"
+    ]
+  },
+  {
+    "id": "animals",
+    "name": "Animals & Pets",
+    "icon": "🐶",
+    "description": "Common animals, cute pets, and wildlife creatures",
+    "words": [
+      "Dog", "Cat", "Lion", "Tiger", "Monkey",
+      "Elephant", "Cow", "Horse", "Duck", "Bear",
+      "Fish", "Bird", "Rabbit", "Frog", "Snake",
+      "Sheep", "Pig", "Zebra", "Giraffe", "Dolphin",
+      "Panda", "Deer", "Mouse", "Chicken", "Penguin",
+      "Turtle", "Kangaroo", "Whale", "Fox", "Owl",
+      "Crocodile", "Goat", "Parrot", "Bee", "Butterfly"
+    ]
+  },
+  {
+    "id": "objects",
+    "name": "Everyday Objects",
+    "icon": "🛋️",
+    "description": "Things you see and use every single day at home",
+    "words": [
+      "Chair", "Table", "Bed", "Clock", "Mirror",
+      "Lamp", "Pillow", "Blanket", "Door", "Window",
+      "Television", "Phone", "Spoon", "Fork", "Cup",
+      "Plate", "Towel", "Soap", "Toothbrush", "Key",
+      "Shoes", "Broom", "Trash Can", "Bottle", "Bucket",
+      "Curtain", "Sofa", "Box", "Fan", "Candle",
+      "Comb", "Mirror", "Wallet", "Scissors", "Umbrella"
+    ]
+  },
+  {
+    "id": "places",
+    "name": "Everyday Places",
+    "icon": "🏫",
+    "description": "Familiar places around town and community locations",
+    "words": [
+      "School", "Hospital", "Park", "Supermarket", "Cinema",
+      "Restaurant", "Airport", "Beach", "Zoo", "Library",
+      "Gym", "Hotel", "Bank", "Swimming Pool", "Farm",
+      "Bakery", "Playground", "Train Station", "Police Station", "Mall",
+      "Home", "Office", "Kitchen", "Bedroom", "Garden",
+      "Bus Stop", "Museum", "Store", "Post Office", "Gas Station"
+    ]
+  },
+  {
+    "id": "jobs",
+    "name": "Jobs & Occupations",
+    "icon": "👨‍🍳",
+    "description": "Common professions and jobs people do",
+    "words": [
+      "Doctor", "Teacher", "Police Officer", "Chef", "Firefighter",
+      "Pilot", "Driver", "Singer", "Artist", "Farmer",
+      "Nurse", "Builder", "Barber", "Astronaut", "Dentist",
+      "Cleaner", "Waiter", "Actor", "Soldier", "Coach",
+      "Photographer", "Dancer", "Scientist", "Mechanic", "Cashier",
+      "Baker", "Judge", "Gardener", "Mailman", "Captain"
+    ]
+  },
+  {
+    "id": "vehicles",
+    "name": "Vehicles & Transport",
+    "icon": "🚗",
+    "description": "Common ways people travel on land, sea, and air",
+    "words": [
+      "Car", "Bicycle", "Airplane", "Bus", "Train",
+      "Boat", "Motorcycle", "Helicopter", "Truck", "Scooter",
+      "Submarine", "Taxi", "Rocket", "Ship", "Ambulance",
+      "Tractor", "Skateboard", "Van", "Fire Truck", "Police Car",
+      "Canoe", "Hot Air Balloon", "Rowboat", "Golf Cart", "Bulldozer"
+    ]
+  },
+  {
+    "id": "clothing",
+    "name": "Clothes & Accessories",
+    "icon": "👕",
+    "description": "Everyday items of clothing and accessories people wear",
+    "words": [
+      "Shirt", "Pants", "Shoes", "Hat", "Socks",
+      "Jacket", "Dress", "Gloves", "Boots", "Scarf",
+      "Belt", "Sunglasses", "Watch", "Cap", "Tie",
+      "Coat", "Slippers", "Sweater", "Jeans", "Ring",
+      "Backpack", "Umbrella", "Necklace", "Pajamas", "Shorts",
+      "Helmet", "Earrings", "Suit", "Raincoat", "Sandals"
+    ]
+  },
+  {
+    "id": "sports",
+    "name": "Sports & Activities",
+    "icon": "⚽",
+    "description": "Popular sports, games, and active fun pastimes",
+    "words": [
+      "Football", "Basketball", "Swimming", "Running", "Tennis",
+      "Cricket", "Cycling", "Dancing", "Boxing", "Bowling",
+      "Skating", "Golf", "Fishing", "Volleyball", "Camping",
+      "Drawing", "Singing", "Cooking", "Gaming", "Chess",
+      "Table Tennis", "Baseball", "Skipping", "Badminton", "Hiking"
+    ]
+  },
+  {
+    "id": "nature",
+    "name": "Nature & Weather",
+    "icon": "🌳",
+    "description": "Natural elements, weather patterns, and the outdoors",
+    "words": [
+      "Tree", "Flower", "Sun", "Rain", "Snow",
+      "Cloud", "Mountain", "River", "Ocean", "Rainbow",
+      "Fire", "Star", "Moon", "Wind", "Forest",
+      "Island", "Desert", "Grass", "Sky", "Lake",
+      "Beach", "Rock", "Leaf", "Thunder", "Waterfall",
+      "Mud", "Cave", "Lightning", "Iceberg", "Hill"
+    ]
+  },
+  {
+    "id": "school",
+    "name": "School & Stationery",
+    "icon": "✏️",
+    "description": "Classroom items, stationery supplies, and study tools",
+    "words": [
+      "Pencil", "Pen", "Eraser", "Notebook", "Backpack",
+      "Scissors", "Ruler", "Book", "Desk", "Computer",
+      "Paper", "Glue", "Marker", "Calculator", "Stapler",
+      "Chalk", "Crayons", "Paint", "File", "Blackboard",
+      "Pencil Case", "Lunchbox", "Folder", "Tape", "Sharpener"
+    ]
+  },
+  {
+    "id": "body",
+    "name": "Body Parts",
+    "icon": "👁️",
+    "description": "Familiar parts of the human body",
+    "words": [
+      "Eyes", "Nose", "Mouth", "Ears", "Hands",
+      "Feet", "Hair", "Teeth", "Fingers", "Legs",
+      "Arms", "Head", "Shoulder", "Knee", "Tongue",
+      "Stomach", "Neck", "Heart", "Back", "Face",
+      "Toes", "Elbow", "Chin", "Thumb", "Forehead"
+    ]
+  },
+  {
+    "id": "characters",
+    "name": "Famous Characters",
+    "icon": "🦸",
+    "description": "Superheroes, cartoon stars, and legendary pop icons",
+    "words": [
+      "Spider-Man", "Batman", "Superman", "Harry Potter", "Mickey Mouse",
+      "Hulk", "Iron Man", "Elsa", "Shrek", "Barbie",
+      "Minions", "Pikachu", "SpongeBob", "Mario", "Simba",
+      "Cinderella", "Santa Claus", "Captain America", "Thor", "Aladdin",
+      "Sonic the Hedgehog", "Donald Duck", "Peter Pan", "Wolverine", "Robin Hood"
+    ]
+  },
+  {
+    "id": "tech",
+    "name": "Tech & Gadgets",
+    "icon": "📱",
+    "description": "Everyday electronic gadgets and household devices",
+    "words": [
+      "Smartphone", "Tablet", "Laptop", "Headphones", "Camera",
+      "Smartwatch", "Charger", "Mouse", "Keyboard", "Speaker",
+      "Video Game", "Drone", "Remote", "Flashlight", "Robot",
+      "Microwave", "Television", "Earphones", "Printer", "Wi-Fi Router"
+    ]
+  },
+  {
+    "id": "fruits_veggies",
+    "name": "Fruits & Vegetables",
+    "icon": "🍎",
+    "description": "Common fresh fruits and vegetables from the kitchen",
+    "words": [
+      "Apple", "Banana", "Orange", "Mango", "Strawberry",
+      "Watermelon", "Grapes", "Pineapple", "Lemon", "Peach",
+      "Potato", "Tomato", "Carrot", "Onion", "Corn",
+      "Broccoli", "Cucumber", "Peas", "Garlic", "Mushroom",
+      "Cherry", "Papaya", "Avocado", "Coconut", "Pumpkin"
+    ]
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen Tools",
+    "icon": "🍳",
+    "description": "Cookware, appliances, and utensils found in any kitchen",
+    "words": [
+      "Pan", "Pot", "Knife", "Blender", "Microwave",
+      "Fridge", "Oven", "Toaster", "Kettle", "Bowl",
+      "Salt", "Sugar", "Pepper", "Milk", "Butter",
+      "Oil", "Spoon", "Fork", "Plate", "Glass",
+      "Teapot", "Rolling Pin", "Bottle", "Cup", "Tray"
+    ]
+  }
+]
